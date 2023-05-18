@@ -1,8 +1,4 @@
 node_modules
 .env
 LEIAME.txt
-.eslintrc.js
-nodemon.json
-package.json
-package-lock.json
-uploads
+
